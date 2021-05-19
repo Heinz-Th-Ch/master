@@ -10,6 +10,9 @@
     <packaging>pom</packaging>
 
     <properties>
+        <itext.version>7.1.13</itext.version>
+        <jaxb.version>2.1</jaxb.version>
+        <jetbrains.version>20.1.0</jetbrains.version>
         <maven.compiler.source>1.10</maven.compiler.source>
         <maven.compiler.target>1.10</maven.compiler.target>
     </properties>
